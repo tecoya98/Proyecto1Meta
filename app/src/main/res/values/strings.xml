@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Proyecto1Meta</string>
+    <string name="t1">Alumno: Tecoya Apolonio Manuel Eduardo</string>
+    <string name="t2">Profesor: De la O Martinez Victor Hugo</string>
+    <string name="t3">Materia: Introduccion a Dispositivos Moviles</string>
+    <string name="t4">Proyecto Primer Parcial</string>
+    <string name="t5">Grupo: 7S11</string>
+    <string name="t6">Menu Principal</string>
+    <string name="t7">Introduccion</string>
+    <string name="t8">“AA” y “A”</string>
+    <string name="t9">“B” y “B15”</string>
+    <string name="t10">Acerda de</string>
+    <string name="t10_1">“C” y “D”</string>
+    <string name="t11">Regresar</string>
+    <string name="t12">Siguiente</string>
+    <string name="t13">Inicio</string>
+    <string name="t14">Salir</string>
+    <string name="int1">De acuerdo a RTC (Radio Televisión y Cinematografia) las películas se clasifican de la siguiente manera:  Las clasificaciones \"AA\", \"A\" y \"B\" son de carácter informativo y sólo las clasificaciones \"C\" y \"D\", debido a sus características, son de índole restrictiva, siendo obligación de los exhibidores negar la entrada a quienes no cubran la edad prevista en las fracciones anteriores. (Ley Federal de Cinematografia)  En la siguiente tabla se especifican más claramente:</string>
+    <string name="int2">Clasificaciones</string>
+    <string name="t1AA">Películas para todo público que tengan además atractivo infantil y sean comprensibles para niños menores de siete años de edad. Películas para todo público que tengan además atractivo infantil y sean comprensibles para niños menores de siete años de edad.</string>
+    <string name="CAA">Clasificacion AA</string>
+    <string name="CA">Clasificacion A</string>
+    <string name="CB">Clasificacion B</string>
+    <string name="CB15">Clasificacion B15</string>
+    <string name="CA1">Películas para todo público.</string>
+    <string name="tb">Películas para adolescentes de 12 años en adelante.</string>
+    <string name="tb15">Película no recomendable para menores de 15 años de edad.</string>
+    <string name="C">Clasificacion C</string>
+    <string name="CD">Clasificacion D</string>
+    <string name="CDI">Películas para adultos, con sexo explícito, lenguaje procaz o alto grado de violencia.</string>
+    <string name="C1">Películas para adultos de 18 años en adelante.</string>
+    <string name="acer">Autor: Tecoya Apolonio Manuel Eduardo</string>
+    <string name="acerd"> Herramienta: Android Studio</string>
+</resources>
